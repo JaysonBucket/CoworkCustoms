@@ -1,15 +1,11 @@
 Content freshness: 24.04.2026
 
 ## What's it about
-- personal space to collect information about Copilot Cowork Customs Skills
-- my laboratory, happy if it helps anyone else
-- interested in or would like to xchange? reach out
-- you could basically directly ask Copilot // Cowork itself to walk you through
-- this is just the extract of my journey
+- personal space to collect information and examples about Copilot Cowork Custom Skills
+- my laboratory, happy if it helps anyone else - interested in or would like to xchange? Reach out.
+- you could basically directly ask Copilot // Cowork itself to walk you through, this is just the extract of my journey
 
 ## Resources and Learning
-
-
 
 - [CoWork Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/?msockid=10bdb884f6126c7c175eae73f2126783)
 - [CoWork Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/)
