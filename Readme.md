@@ -19,7 +19,7 @@ Content freshness: 24.04.2026
 
 ### OOTB Skills
 [CoWork OOTB Skills](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
-
+```
 **Skill	            What it does**
 Word	            Create and edit Word documents.
 Excel	            Create and edit Excel spreadsheets.
@@ -34,7 +34,7 @@ Enterprise Search	Search across your organization.
 Deep Research	    Conducts in-depth research across multiple sources to compile comprehensive answers and analysis on complex topics.
 Communications	    Draft stakeholder communications.
 Adaptive Cards	    Generates interactive card-based responses with structured layouts, buttons, and data displays in the conversation.
-
+```
 
 
 ### Custom Skills folder structure
