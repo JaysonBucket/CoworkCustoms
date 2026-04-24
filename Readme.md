@@ -39,20 +39,39 @@ Adaptive Cards	    Generates interactive card-based responses with structured la
 
 ### Custom Skills folder structure
 
+```
 Cowork/
 └── skills/
     ├── my-first-skill/
-    │   └── SKILL.md              ← required
+    │   └── SKILL.md
     │
     └── my-second-skill/
-        ├── SKILL.md              ← required
-        ├── scripts/              ← optional (helper scripts)
+        ├── SKILL.md
+        ├── scripts/
         │   └── helper.py
-        └── references/           ← optional (extended docs)
+        └── references/
             └── guide.md
+```
 
 
 ### Custom Skills file structure
 
+```
+---
+name: my-first-skill
+description: Use when the user asks to [trigger phrases here].
+cowork:
+  category: productivity
+  icon: Lightbulb
+---
 
+# My First Skill
+
+Instructions for how the skill should behave...
+
+Folder name must match the name: field exactly
+Use kebab-case (letters, digits, hyphens)
+description should include the phrases that trigger it
+Max 50 skills per user
+```
 
