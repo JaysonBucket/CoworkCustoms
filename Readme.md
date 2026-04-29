@@ -16,6 +16,7 @@ If you are - just like me - wondering when to use what, follow this link to [com
 - [CoWork Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/)
 - [CoWork FAQ](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/cowork-faq?EntityRepresentationId=19d2a7d3-fe20-4a75-9592-8cb07d6fe4c2)
 - [CoWork OOTB Skills](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
+- [Microsoft 365 Frontier Program](https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program)
 - [Official Microsoft Roadmap](https://www.microsoft.com/de-de/microsoft-365/roadmap?filters=%5B%22Microsoft+Copilot+%28Microsoft+365%29%22%5D#Roadmap)
 
 </br>
