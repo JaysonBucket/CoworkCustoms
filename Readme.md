@@ -5,7 +5,7 @@ Content freshness: 24.04.2026
 - my laboratory, happy if it helps anyone else - interested in or would like to xchange? Reach out.
 - you could basically directly ask Copilot // Cowork itself to walk you through, this is just the extract of my journey
 
-If you are - just like me - are wondering when to use what, follow this link to compare Chat to Skill to Agent
+If you are - just like me - wondering when to use what, follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
 
 ## Resources and Learning
 
