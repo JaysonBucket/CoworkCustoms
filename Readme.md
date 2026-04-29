@@ -41,7 +41,10 @@ Communications	    Draft stakeholder communications.
 Adaptive Cards	    Generates interactive card-based responses with structured layouts, buttons, and data displays in the conversation.
 ```
 
-If you are interested in adding additional skills, have a look on the [Custom Skills page](/docs/CustomSkills.md)
+- You can create custom skills right from Cowork itself
+- Just use the /skill skill 😄 it guides you through the process and helps setting things up
+
+If you are interested in adding additional skills manually, have a look on the [Custom Skills page](/docs/CustomSkills.md)
 
 </br>
 </br>
