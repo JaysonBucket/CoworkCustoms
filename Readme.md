@@ -41,6 +41,8 @@ Communications	    Draft stakeholder communications.
 Adaptive Cards	    Generates interactive card-based responses with structured layouts, buttons, and data displays in the conversation.
 ```
 
+If you are interested in adding additional skills, have a look on the [Custom Skills page](/docs/CustomSkills.md)
+
 </br>
 </br>
 
