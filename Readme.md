@@ -45,6 +45,72 @@ Adaptive Cards	    Generates interactive card-based responses with structured la
 </br>
 
 
+### Custom Skills: Copilot Cowork vs. Claude Cowork
+
+Important: You can create custom skills right from Cowork itself. It guides you through the process and helps setting things up.  
+- You might nevertheless want to set up your own SKILL.md and additions, that's why I had a closer look on it
+- learnign about it's structure and logic might also help in deepening understanding
+
+</br>
+
+**Be warned:**
+- ClaudeCowork tools/skills and Copilot Cowork Custom Skills are built for fundamentally different orchestration, security, and lifecycle models
+- a 1:1 reuse is neither technically nor conceptually possible
+
+Anthropic skills are model‑oriented extensions.  
+Copilot Cowork Custom Skills are platform‑oriented extensions.  
+
+</br>
+
+Claude Cowork: The model is the orchestrator
+- Tool calling is part of the model’s reasoning loop
+- Skills often encapsulate:
+  - business logic
+  - decision logic
+  - partial workflow logic
+  - The model decides how to use them
+- The platform expects:
+  - direct JSON‑schema tool definitions
+  - synchronous request/response cycles
+  - no external governance layer
+- Typically:
+  - API keys in code
+  - minimal identity propagation
+  - no enterprise identity context
+
+</br>
+
+Copilot Cowork: Copilot is the orchestrator, not the model
+- Orchestration logic lives in:
+  - the Copilot Cowork agent
+  - Microsoft’s Copilot control plane
+- Skills are intentionally constrained:
+  - execute a single capability
+  - return a result
+  - no conversation ownership
+  - no control over next steps
+Decision‑making and flow stay outside the skill.
+- Skills are:
+  - invoked by the agent, not by free model reasoning
+  - executed as discrete, bounded capabilities
+  - governed by tenant, identity, and compliance rules
+- Every execution must respect:
+  - the signed‑in user
+  - tenant policies
+  - Microsoft’s compliance envelope
+
+</br>
+
+So even a well‑designed Anthropic skill often:
+- does too much
+- assumes too much autonomy
+- violates Copilot’s separation of concerns
+- technically just doesn't work 
+
+</br>
+</br>
+
+
 ### Custom Skills folder structure
 
 ```
