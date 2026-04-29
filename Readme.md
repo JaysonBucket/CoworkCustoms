@@ -8,7 +8,21 @@ Content freshness: 29.04.2026
 - All observations are based on the author’s understanding at the time of writing and may evolve as the products change.
 - Copilot Cowork is currently a Frontier feature and is developing rapidly. Functionality, availability, and integration patterns may change quickly and without prior notice.
 
-If you are - just like me - wondering when to use what, follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
+</br>
+
+## First thoughts
+
+If you are - just like me - wondering when to use what think about skills like
+- Have no persona
+- Introduce no conversational mode switch
+- Keep the user focused on their task, not the architecture
+
+Example transitions:
+- Policy skill → agent when it manages exceptions interactively
+- Meeting skill → agent when it negotiates priorities across teams
+- Sales skill → agent when it qualifies leads end‑to‑end
+
+Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
 
 </br>
 
