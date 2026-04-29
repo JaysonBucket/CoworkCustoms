@@ -11,7 +11,6 @@ Content freshness: 29.04.2026
 If you are - just like me - wondering when to use what, follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
 
 </br>
-</br>
 
 ## Resources and Learning
 
