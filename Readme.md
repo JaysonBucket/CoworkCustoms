@@ -1,4 +1,4 @@
-Content freshness: 24.04.2026
+Content freshness: 29.04.2026
 
 ## What's it about
 - personal space to collect information and examples about Copilot Cowork and Custom Skills
@@ -7,6 +7,9 @@ Content freshness: 24.04.2026
 
 If you are - just like me - wondering when to use what, follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
 
+</br>
+</br>
+
 ## Resources and Learning
 
 - [CoWork Announcement](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/?msockid=10bdb884f6126c7c175eae73f2126783)
@@ -14,6 +17,8 @@ If you are - just like me - wondering when to use what, follow this link to [com
 - [CoWork FAQ](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/cowork-faq?EntityRepresentationId=19d2a7d3-fe20-4a75-9592-8cb07d6fe4c2)
 - [CoWork OOTB Skills](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
 
+</br>
+</br>
 
 ### OOTB Skills
 [CoWork OOTB Skills](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
@@ -34,6 +39,9 @@ Communications	    Draft stakeholder communications.
 Adaptive Cards	    Generates interactive card-based responses with structured layouts, buttons, and data displays in the conversation.
 ```
 
+</br>
+</br>
+
 
 ### Custom Skills folder structure
 
@@ -51,6 +59,8 @@ Cowork/
             └── guide.md
 ```
 
+</br>
+</br>
 
 ### Custom Skills file structure
 
