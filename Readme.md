@@ -1,9 +1,11 @@
 Content freshness: 24.04.2026
 
 ## What's it about
-- personal space to collect information and examples about Copilot Cowork Custom Skills
+- personal space to collect information and examples about Copilot Cowork and Custom Skills
 - my laboratory, happy if it helps anyone else - interested in or would like to xchange? Reach out.
 - you could basically directly ask Copilot // Cowork itself to walk you through, this is just the extract of my journey
+
+If you are - just like me - are wondering when to use what, follow this link to compare Chat to Skill to Agent
 
 ## Resources and Learning
 
