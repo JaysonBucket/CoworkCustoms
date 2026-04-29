@@ -15,6 +15,7 @@ The focus is on:
 Copilot Cowork is currently a Frontier feature and is developing rapidly. Functionality, availability, and integration patterns may change quickly and without prior notice.
 
 [Sources used, for you to read through yourself & dive deeper](sources.md)
+Readers should treat official documentation as a necessary foundation, but validate assumptions against current product behavior, licensing, and tenant configuration before making design or governance decisions.
 
 </br>
 </br>
