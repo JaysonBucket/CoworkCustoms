@@ -4,6 +4,7 @@ Important: You can create custom skills right from Cowork itself.
 - Just use the **/skill** skill 😄 it guides you through the process and helps setting things up.  
 - You might nevertheless want to set up your own SKILL.md and additions, that's why I had a closer look on it
 - learnign about it's structure and logic might also help in deepening understanding
+- [check in here for the two options to add custom skills and run quality checks for accuracy](AddCustomSkills.md)
 
 </br>
 </br>
