@@ -42,7 +42,7 @@ Example transitions:
 - [CoWork OOTB Skills](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/use-cowork#cowork-skills)
 - [Microsoft 365 Frontier Program](https://www.microsoft.com/en-us/microsoft-365-copilot/frontier-program)
 - [Official Microsoft Roadmap](https://www.microsoft.com/de-de/microsoft-365/roadmap?filters=%5B%22Microsoft+Copilot+%28Microsoft+365%29%22%5D#Roadmap)
-- HIGHLIGHT: [Check out the Cowork Collective Contents for fun & action]([url](https://microsoft.github.io/agent-academy/cowork-collective/))
+- HIGHLIGHT: [Check out the Cowork Collective Contents for fun & action]([https://microsoft.github.io/agent-academy/cowork-collective/)
 
 </br>
 </br>
