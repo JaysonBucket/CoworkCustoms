@@ -1,3 +1,5 @@
+[Back to main page](../Readme.md)
+
 Important: You can create custom skills right from Cowork itself. 
 - Just use the **/skill** skill 😄 it guides you through the process and helps setting things up.  
 - You might nevertheless want to set up your own SKILL.md and additions, that's why I had a closer look on it

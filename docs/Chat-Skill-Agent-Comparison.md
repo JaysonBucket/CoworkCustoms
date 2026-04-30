@@ -1,3 +1,5 @@
+[Back to main page](../Readme.md)
+
 # Copilot Interaction, Agent, and Skill Architecture
 
 This page documents a comparison of Copilot Chat, Copilot Cowork Custom Skills, Agent Builder Agents, Declarative Agents in Copilot Studio, and Custom Agents in Copilot Studio.
