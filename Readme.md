@@ -3,10 +3,13 @@ Content freshness: 29.04.2026
 ## What's it about
 - personal space to collect information and examples about Copilot Cowork and Custom Skills
 - my laboratory, happy if it helps anyone else - interested in or would like to xchange? Reach out.
-- The content reflects personal experience, hands-on experimentation, and individual interpretation of the current product behavior.
+
+</br>
+
+- **The content reflects personal experience, hands-on experimentation, and individual interpretation of the current product behavior.**
 - It is not an official Microsoft reference and should not be treated as authoritative product documentation.
 - All observations are based on the author’s understanding at the time of writing and may evolve as the products change.
-- Copilot Cowork is currently a Frontier feature and is developing rapidly. Functionality, availability, and integration patterns may change quickly and without prior notice.
+- **Copilot Cowork is currently a Frontier feature and is developing rapidly. Functionality, availability, and integration patterns may change quickly and without prior notice.**
 
 </br>
 
