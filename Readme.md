@@ -22,7 +22,12 @@ Example transitions:
 - Meeting skill → agent when it negotiates priorities across teams
 - Sales skill → agent when it qualifies leads end‑to‑end
 
-Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)
+</br>
+
+## Detail pages 
+- Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)  
+- Learn about the [Basics of Custom Skills](/docs/CustomSkills.md) and why they are not 1:1 compareable to Claude skills  
+- Check in here for the [two options to add Custom Ckills and run quality checks for accuracy](AddCustomSkills.md)  
 
 </br>
 
