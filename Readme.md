@@ -30,7 +30,7 @@ Example transitions:
 ## Detail pages 
 - Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)  
 - Learn about the [Basics of Custom Skills](/docs/CustomSkills.md) and why they are not 1:1 compareable to Claude skills  
-- Check in here for the [two options to add Custom Ckills and run quality checks for accuracy](AddCustomSkills.md)  
+- Check in here for the [two options to add Custom Ckills and run quality checks for accuracy](/docs/AddCustomSkills.md)  
 
 </br>
 
