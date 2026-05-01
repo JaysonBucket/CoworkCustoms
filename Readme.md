@@ -1,4 +1,4 @@
-Content freshness: 29.04.2026
+Content freshness: 01.05.2026
 
 ## What's it about
 - personal space to collect information and examples about Copilot Cowork and Custom Skills
@@ -21,6 +21,7 @@ If you are - just like me - wondering when to use what think about skills like
 - Keep the user focused on their task, not the architecture
 
 What I totally love when interacting with CoWork:
+- no endless re-generation: especially when reworking documents or setting up comms, it only changes parts and does not completely generate for new
 - you can uopload zip files with consolidated information, it unpacks and parses
 - it can parse websites, give it an address and it does the job
 - it's real co-creation based on what you feed
