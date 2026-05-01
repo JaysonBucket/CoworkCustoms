@@ -13,17 +13,19 @@ Content freshness: 29.04.2026
 
 </br>
 
-## First thoughts
+## First thoughts & most loved
 
 If you are - just like me - wondering when to use what think about skills like
 - Have no persona
 - Introduce no conversational mode switch
 - Keep the user focused on their task, not the architecture
 
-Example transitions:
-- Policy skill → agent when it manages exceptions interactively
-- Meeting skill → agent when it negotiates priorities across teams
-- Sales skill → agent when it qualifies leads end‑to‑end
+What I totally love when interacting with CoWork:
+- you can uopload zip files with consolidated information, it unpacks and parses
+- it can parse websites, give it an address and it does the job
+- it's real co-creation based on what you feed
+- it does the work and only raises hands when a human interaction or decision is needed
+- Custom Skills are a real gamechanger, looking at my daily work, there is so much potential!
 
 </br>
 
