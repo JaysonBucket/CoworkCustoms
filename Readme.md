@@ -24,7 +24,7 @@ What I totally love when interacting with CoWork:
 - you can uopload zip files with consolidated information, it unpacks and parses
 - it can parse websites, give it an address and it does the job
 - it's real co-creation based on what you feed
-- it does the work and only raises hands when a human interaction or decision is needed
+- it does the work, calls skills as needed and only raises hands when a human interaction or decision is needed
 - Custom Skills are a real gamechanger, looking at my daily work, there is so much potential!
 
 </br>
