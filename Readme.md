@@ -31,8 +31,9 @@ What I totally love when interacting with CoWork:
 </br>
 
 ## Detail pages 
+- [Memory and Context Window experiences](MemoryAndContext.md)
 - Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)  
-- Learn about the [Basics of Custom Skills](/docs/CustomSkills.md) and why they are not 1:1 compareable to Claude skills  
+- Learn about the [Basics of Custom Skills](/docs/CustomSkills.md) and why they are not 1:1 compareable to Claude skills
 - Check in here for the [two options to add Custom Ckills and run quality checks for accuracy](/docs/AddCustomSkills.md)  
 
 </br>
