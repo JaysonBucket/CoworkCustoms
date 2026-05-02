@@ -1,4 +1,4 @@
-[back home](https://github.com/JaysonBucket)
+[back home](https://github.com/JaysonBucket)  
 Content freshness: 02.05.2026
 
 ## What's it about
