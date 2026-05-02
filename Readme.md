@@ -1,4 +1,5 @@
-Content freshness: 01.05.2026
+[back home](https://github.com/JaysonBucket)
+Content freshness: 02.05.2026
 
 ## What's it about
 - personal space to collect information and examples about Copilot Cowork and Custom Skills
