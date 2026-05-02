@@ -32,6 +32,7 @@ What I totally love when interacting with CoWork:
 </br>
 
 ## Detail pages 
+- **NEW** [Custom skill DailyOps](https://github.com/JaysonBucket/Cowork-DailyOps) - Personal daily-operations system as a Cowork Custom Skill — tasks, customers, stakeholders, and a mail-capture loop for customer-facing roles.
 - [Memory and Context Window experiences](/docs/MemoryAndContext.md)
 - Follow this link to [compare Chat to Skill to Agent](/docs/Chat-Skill-Agent-Comparison.md)  
 - Learn about the [Basics of Custom Skills](/docs/CustomSkills.md) and why they are not 1:1 compareable to Claude skills
